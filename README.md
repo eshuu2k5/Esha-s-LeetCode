@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
