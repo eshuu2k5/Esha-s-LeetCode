@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
