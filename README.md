@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
