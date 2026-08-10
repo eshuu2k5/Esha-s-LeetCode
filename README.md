@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
