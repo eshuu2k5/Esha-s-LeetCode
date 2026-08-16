@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -281,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/eshuu2k5/Esha-s-LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
